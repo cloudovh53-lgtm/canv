@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 app.secret_key = "secret123"
 
-BOT_TOKEN = "8928542394:AAGFc3km0UGNGBOEVXx8pPMbhBsJUx4uxOE"
+BOT_TOKEN = "8928542394:AAGsymA7F8qY_BIo_lCoSiNcnY6hvvLu2eU"
 CHAT_ID = "6823880612"
 
 USERS = {
